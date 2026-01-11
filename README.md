@@ -1,2 +1,1 @@
-# new-fucking-project
-Fcking project
+yeni boktan proje
